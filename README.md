@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Ritviks21/F2-Farm-Friend-/raw/main/docs/images/ChatGPT%20Image%20May%2020%2C%202026%2C%2006_45_28%20PM.png" alt="Farm Friend Project Banner" width="100%">
+  <img src="https://github.com/Ritviks21/F2-Farm-Friend-/raw/main/docs/images/ChatGPT%20Image%20May%2020%2C%202026%2C%2007_04_39%20PM.png" alt="Farm Friend Project Banner" width="100%">
 </p>
 
 <h1 align="center">Farm Friend</h1>
