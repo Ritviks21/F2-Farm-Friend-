@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ritviks21/F2-Farm-Friend-/main/docs/images/ChatGPT%20Image%20May%2020%2C%202026%2C%2006_45_28%20PM.png" alt="Farm Friend Project Banner" width="100%">
+  <img src="https://github.com/Ritviks21/F2-Farm-Friend-/raw/main/docs/images/ChatGPT%20Image%20May%2020%2C%202026%2C%2006_45_28%20PM.png" alt="Farm Friend Project Banner" width="100%">
 </p>
 
 <h1 align="center">Farm Friend</h1>
@@ -41,7 +41,7 @@ This system is hosted live on Hugging Face Spaces using a responsive, production
 
 <p align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/Ritviks21/F2-Farm-Friend-/main/docs/images/Picture1.png" alt="Farm Friend Architectural Pipeline Flowchart" width="550">
+  <img src="https://github.com/Ritviks21/F2-Farm-Friend-/raw/main/docs/images/Picture1.png" alt="Farm Friend Architectural Pipeline Flowchart" width="550">
   <br>
   <i>Figure 1: Full Architecture Pipeline from user UI interaction layers down to granular XAI calculation engines.</i>
 </p>
@@ -80,7 +80,7 @@ Our final system resolved all execution and usability bottlenecks to create a pr
 
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ritviks21/F2-Farm-Friend-/main/docs/images/Picture2.png" alt="Data split strategy map" width="100%">
+  <img src="https://github.com/Ritviks21/F2-Farm-Friend-/raw/main/docs/images/Picture2.png" alt="Data split strategy map" width="100%">
 </p>
 <br>
 
@@ -119,21 +119,21 @@ Our validation study benchmarked four leading ensemble architectures across **19
 | ⚡ LightGBM | 0.9051 | 3.2174 |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ritviks21/F2-Farm-Friend-/main/docs/images/Picture3.png" alt="Benchmarking bar plots metrics charts" width="100%">
+  <img src="https://github.com/Ritviks21/F2-Farm-Friend-/raw/main/docs/images/Picture3.png" alt="Benchmarking bar plots metrics charts" width="100%">
 </p>
 
 ### Balanced Metrics Multi-Axis Breakdown
 To track trade-offs across speed, training resource efficiency, and residual variance constraints, a comparative multidimensional index map was constructed:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ritviks21/F2-Farm-Friend-/main/docs/images/Picture4.png" alt="Radar multi-axis performance chart" width="500">
+  <img src="https://github.com/Ritviks21/F2-Farm-Friend-/raw/main/docs/images/Picture4.png" alt="Radar multi-axis performance chart" width="500">
 </p>
 
 ### Granular Feature Impact Calculations
 Using the globally initialized interpretability engine, localized weight effects are mapped explicitly during validation checkpoints to isolate key performance indicators:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ritviks21/F2-Farm-Friend-/main/docs/images/Picture5.png" alt="SHAP local feature waterfall chart" width="650">
+  <img src="https://github.com/Ritviks21/F2-Farm-Friend-/raw/main/docs/images/Picture5.png" alt="SHAP local feature waterfall chart" width="650">
 </p>
 
 ---
@@ -142,12 +142,12 @@ Using the globally initialized interpretability engine, localized weight effects
 
 <p align="center">
   <b>Trilingual User Interface Layout</b><br>
-  <img src="https://raw.githubusercontent.com/Ritviks21/F2-Farm-Friend-/main/docs/images/Picture6.png" alt="Farm Friend Dashboard Attribute Fields" width="100%">
+  <img src="https://github.com/Ritviks21/F2-Farm-Friend-/raw/main/docs/images/Picture6.png" alt="Farm Friend Dashboard Attribute Fields" width="100%">
 </p>
 
 <p align="center">
   <b>Real-Time XAI Explanations & Financial Outputs</b><br>
-  <img src="https://raw.githubusercontent.com/Ritviks21/F2-Farm-Friend-/main/docs/images/Picture7.png" alt="Inference Pipeline Output Performance View" width="100%">
+  <img src="https://github.com/Ritviks21/F2-Farm-Friend-/raw/main/docs/images/Picture7.png" alt="Inference Pipeline Output Performance View" width="100%">
 </p>
 
 ---
